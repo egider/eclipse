@@ -1,1 +1,2 @@
-# eclipse Basit bir hesap makinesi çalışması.
+# eclipse 
+Basit bir hesap makinesi çalışması.
